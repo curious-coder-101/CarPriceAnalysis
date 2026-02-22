@@ -32,7 +32,7 @@ Three regression models were evaluated using 5-fold cross-validation:
 The best model (Lasso) achieved a **test RMSE of $7,646** and **R² of 0.66**, explaining 66% of the variance in used car prices.
 
 ## Notebook
-[View the Jupyter Notebook](./prompt_II.ipynb)
+[View the Jupyter Notebook](./car_price_analysis.ipynb)
 
 ## Tools & Libraries
 - Python, Pandas, NumPy
